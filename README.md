@@ -9,7 +9,6 @@
       src="assets/banner-dark.png"
       alt="Cristian Camilo Alarcón Delgadillo, ingeniería de sistemas, IA y desarrollo de software, ubicado en Ubaté, Colombia; retrato a la derecha"
       width="1200"
-      height="320"
     />
   </picture>
 </div>
