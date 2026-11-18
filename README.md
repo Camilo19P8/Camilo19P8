@@ -34,8 +34,7 @@ Construyo software y modelos de aprendizaje automático para convertir datos en 
 <div align="center">
   <a href="mailto:calarcondelgadillo@gmail.com"><img alt="Correo electrónico" src="https://img.shields.io/badge/Email-Contacto-161B22?style=flat-square&amp;logo=gmail&amp;logoColor=38BDF8&amp;labelColor=161B22" /></a>
   <img alt="Ubicación: Ubaté, Colombia" src="https://img.shields.io/badge/Ubicación-Ubaté%2C%20Colombia-161B22?style=flat-square&amp;logo=googlemaps&amp;logoColor=38BDF8" />
-  <!-- Reemplaza [LINKEDIN_URL] y activa el enlace cuando tengas la URL verificada. -->
-  <img alt="LinkedIn: enlace pendiente" src="https://img.shields.io/badge/LinkedIn-Enlace%20pendiente-161B22?style=flat-square&amp;logo=linkedin&amp;logoColor=8B949E" />
+  <a href="https://www.linkedin.com/in/cristian-alarcon-19p8/"><img alt="LinkedIn de Cristian Camilo Alarcón Delgadillo" src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-161B22?style=flat-square&amp;logo=linkedin&amp;logoColor=38BDF8" /></a>
   <img alt="Abierto a oportunidades junior en IA y software" src="https://img.shields.io/badge/Estado-Abierto%20a%20roles%20junior%20IA%20%2F%20software-161B22?style=flat-square&amp;logo=github&amp;logoColor=38BDF8" />
 </div>
 
@@ -90,24 +89,7 @@ Actualmente curso una especialización en Inteligencia Artificial como opción d
   </tr>
 </table>
 
-## 03 / Proyecto destacado
-
-<!-- Project-specific technologies must be verified before adding them. -->
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>Sistema de alertas y predicción climatológica con IA</h3>
-      <p><b>Problema.</b> Usar datos climatológicos para apoyar la predicción de condiciones y la generación de alertas.</p>
-      <p><b>Mi rol.</b> Diseño del sistema, entrenamiento y validación del modelo de IA y construcción del software.</p>
-      <p><b>Stack declarado.</b> Inteligencia Artificial, Machine Learning, preparación y análisis de datos, desarrollo de software. <i>[TECNOLOGÍAS EXACTAS DEL PROYECTO PENDIENTES]</i></p>
-      <p><b>Resultado.</b> Modelo entrenado y validado; trabajo presentado en ponencias y artículos. <i>[ENLACE AL REPOSITORIO / PUBLICACIONES PENDIENTE]</i></p>
-      <p><b>Qué aprendí.</b> A conectar la evaluación de un modelo con las necesidades y restricciones de un sistema real.</p>
-    </td>
-  </tr>
-</table>
-
-## 04 / Actividad en GitHub
+## 03 / Actividad en GitHub
 
 <!-- Third-party cards may be temporarily unavailable due to external rate limits. -->
 
@@ -124,7 +106,7 @@ Actualmente curso una especialización en Inteligencia Artificial como opción d
 
 <sub>Estas tarjetas resumen repositorios públicos; no son una medida de competencia técnica.</sub>
 
-## 05 / Educación y trayectoria
+## 04 / Educación
 
 <!-- Compact chronological milestones; no assumed graduation date. -->
 
@@ -132,12 +114,10 @@ Actualmente curso una especialización en Inteligencia Artificial como opción d
 | :-- | :-- | :-- |
 | Actualidad | **Universidad de Cundinamarca** · Especialización en Inteligencia Artificial, en curso | Opción de grado |
 | Plan culminado | **Universidad de Cundinamarca** · Ingeniería de Sistemas y Computación | Formación en ingeniería |
-| 2023–2025 | **Semillero de investigación** · Investigador / desarrollador | Predicción climatológica con IA, ponencias y artículos |
-| Feb–oct 2024 | **Lácteos Ubaté** · Soporte técnico | Soporte de tecnología |
 
 **Idiomas:** español nativo · inglés intermedio
 
-## 06 / Contacto
+## 05 / Contacto
 
 <!-- Use mailto directly; there is no contact form or tracking. -->
 
